@@ -1,1 +1,19 @@
-{}
+{
+    "multi-step-authn": {
+        "projectName": "multi-step-authn",
+        "description": "Multi-step authentication flow",
+        "type": "community",
+        "author": "desaioss",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/desaioss/agama-multi-step-auth",
+        "githubUri": "https://github.com/desaioss/agama-multi-step-auth",
+        "license": "apache-2.0",
+        "lastUpdated": "1719314942385",
+        "tags": [
+            "password",
+            "OTP"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
